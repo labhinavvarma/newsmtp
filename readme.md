@@ -1,3 +1,6 @@
+#install uv
+pip install uv
+
 #Build the Docker image:
 docker build -t smtp-mcp-server .
 
